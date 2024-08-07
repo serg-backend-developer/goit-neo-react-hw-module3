@@ -19,4 +19,5 @@ const Contact = ({ id, name, number, onDelete }) => {
     </li>
   );
 };
+
 export default Contact;
