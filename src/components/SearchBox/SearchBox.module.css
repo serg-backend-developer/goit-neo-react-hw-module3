@@ -5,3 +5,8 @@
 	margin-bottom: 25px;
 	max-width: 320px;
 }
+
+input {
+	border: 2px solid black;
+	border-radius: 5px;
+}
